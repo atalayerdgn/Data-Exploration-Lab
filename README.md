@@ -8,3 +8,5 @@
 **python main.py**
 
 **MacOS Only**
+
+**https://buymeacoffee.com/atalayerdgn** 
